@@ -26,7 +26,6 @@
 
 | Tech              | Description                                 |
 | ----------------- | ------------------------------------------- |
-| **Next.js 13**    | App directory structure + server components |
 | **React**         | Functional components and JSX               |
 | **Tailwind CSS**  | Utility-first styling                       |
 | **Framer Motion** | Animations and scroll-based transitions     |
