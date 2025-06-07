@@ -1,7 +1,4 @@
 ![Metaverse Preview](https://raw.githubusercontent.com/yousef-magar/metaverse-madness/main/public/meta.png)
-  
-
-![Chat Application](https://camo.githubusercontent.com/0b4383ccdf0010a83d6eb9fae41f4881c6a89ff66ac0ab652a65e2c96550fd44/68747470733a2f2f692e6962622e636f2f736253485748302f5468756d626e61696c2d312e706e67)
 
 # 🚀 Metaverse Experience — Modern Next.js 13 Website
 
